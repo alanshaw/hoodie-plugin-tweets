@@ -1,0 +1,14 @@
+{
+  "name": "hoodie-plugin-tweets",
+  "version": "0.0.0",
+  "description": "Exposes a public database of filtered tweets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "~1.1.11"
+  }
+}
